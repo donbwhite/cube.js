@@ -1260,10 +1260,10 @@
     url-search-params-polyfill "^7.0.0"
     uuid "^3.4.0"
 
-"@cubejs-client/react@^0.26.34":
-  version "0.26.34"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.26.34.tgz#8dd8383e795145a1794869e2f043053db1bc6f2f"
-  integrity sha512-AwvAto8P+PemFJ/3TKoUM7kR1Y3Dk3mGK8k/GU8v4Gzf/V7ajPA1YjiqsFA1QVqK47hs7FBbll4v7TJON6wZGg==
+"@cubejs-client/react@^0.26.41":
+  version "0.26.41"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/react/-/react-0.26.41.tgz#9bd6ce431a57f7ad626bed68638a1b710a6aa86d"
+  integrity sha512-nFdkRZDXdQQ8ZiOSLVcrb4q1o/1jukGZaz0OgsPeK0CJ8r+wIClkVdxKEmi/r87KxbQeVZsyyZSi6uxPGkmZqg==
   dependencies:
     "@babel/runtime" "^7.1.2"
     "@cubejs-client/core" "^0.26.19"
@@ -5511,7 +5511,7 @@ fs-extra@^8.1.0:
     jsonfile "^4.0.0"
     universalify "^0.1.0"
 
-fs-extra@^9.0.1:
+fs-extra@^9.0.1, fs-extra@^9.1.0:
   version "9.1.0"
   resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-9.1.0.tgz#5954460c764a8da2094ba3554bf839e6b9a7c86d"
   integrity sha512-hcg3ZmepS30/7BSFqRvoo3DOMQu7IjqxO5nCDt+zM9XWjb33Wg7ziNT+Qvqbuc3+gWpzO02JubVyk2G4Zvo1OQ==
